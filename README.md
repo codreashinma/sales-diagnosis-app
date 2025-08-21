@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 営業力診断アプリ
 
 このアプリケーションは、営業担当者の営業力を診断するためのシンプルなウェブアプリです。9つの質問に答えることで、100点満点での営業力スコアと、レベルに応じたフィードバックを得ることができます。
@@ -31,7 +30,7 @@
 リポジトリをクローンした後、index.htmlをウェブブラウザで開くだけで利用できます。サーバーは必要ありません。
 
 ```bash
-git clone https://github.com/yourusername/sales-diagnosis-app.git
+git clone https://github.com/codreashinma/sales-diagnosis-app.git
 cd sales-diagnosis-app
 # ブラウザでindex.htmlを開く
 ```
@@ -39,6 +38,3 @@ cd sales-diagnosis-app
 ## ライセンス
 
 MIT
-=======
-# sales-diagnosis-app
->>>>>>> 529705b0a67818b8c8c51e453d0eb9230383087b
